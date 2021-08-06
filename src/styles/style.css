@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.card {
+  padding: 10px;
+  background-color: plum;
+  border: solid 1px rgb(160, 98, 160);
+  border-radius: 5px;
+
+  text-align: center;
+}
+.card img {
+  width: 200px;
+  border-radius: 5px;
+}
+
+.card p {
+  padding: 20px;
+  padding-bottom: 10px;
+}
